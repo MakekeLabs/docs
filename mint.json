@@ -8,18 +8,8 @@
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#4C368B",
-    "light": "#a09fa6",
-    "dark": "#6f6e77"
-  },
-  "topbarLinks": [
-    {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "light": "#ededed",
+    "dark": "#1a1523"
   },
   "tabs": [
     {
