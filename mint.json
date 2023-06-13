@@ -11,6 +11,12 @@
     "light": "#ededed",
     "dark": "#1a1523"
   },
+  "topbarLinks": [
+    {
+      "name": "Service Status",
+      "url": "https://status.makeke.io"
+    }
+  ],
   "tabs": [
     {
       "name": "API Reference",
